@@ -1,0 +1,15 @@
+*.mp4
+*.css.map
+*.js.map
+.sass-cache/
+
+node_modules/
+.idea/
+.vscode/
+
+target/
+
+*.iml
+*.md
+
+!README.md
